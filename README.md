@@ -1,5 +1,5 @@
 ### Hola
-Soy Agustin Leonardi, estudiante de ingenieria en pogramacion
+Soy Agustin Leonardi, estudiante de ingenieria en pogramacion  
 Tengo 23 años
 
 <!--
