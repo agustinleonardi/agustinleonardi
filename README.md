@@ -5,7 +5,7 @@ Conocimientos sólidos en React para construir frontends que consumen mis APIs. 
 
 
 ## 🔹 Tecnologías
-- C# / .NET / EF Core / SQL Server / PostgreSQL  
+- C# / .NET / EF Core / SQL Server 
 - React 
 - Git / Azure DevOps / CI/CD
 
